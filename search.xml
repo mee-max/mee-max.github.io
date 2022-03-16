@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>云使能技术包括哪些技术组件</title>
+    <url>/2022/03/07/0/</url>
+    <content><![CDATA[<p>宽带网络和Internet架构：Internet以无中心的供给和管理模型为基础，不受任何集中式实体的控制。主要组件是使用网络路由器和交互机的无连接分组交换与基于路由器的互联。<br>数据中心技术：数据中心是专门的IT基础设施，用于集中存放IT资源，应当可以远程操作，具有高可用性。<br>虚拟化技术：服务器虚拟化是指利用虚拟化软件将IT硬件抽象为虚拟服务器，具有硬件无关性，有多种层次的虚拟化技术。<br>Web技术：常用语云服务的实现，基本技术包括URL、HTTP、HTML和XML，具有极大灵活性。<br>多租户技术：类似于将软件虚拟化，每个租户意识不到其他租户的存在，可提高安全性，便于计费。<br>服务技术：由Web服务，服务代理，服务中间件组成，规范和简化了云服务的部署。</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>列举至少3种虚拟化软件</title>
+    <url>/2022/03/09/1/</url>
+    <content><![CDATA[<p>Docker：容器虚拟化，在宿主机上虚拟一个单独环境给软件使用，而不是虚拟一个新系统，使用更加方便，但是模拟不如虚拟机真实。<br>VMware ESXi：VMware 提供的裸机虚拟化系统，不需要宿主系统，可直接运行多个虚拟机。<br>VMware Workstation：VMware 提供的个人虚拟化软件，需要在宿主操作系统上运行软件，再于软件上运行虚拟机。<br>能用于企业级的厂商主要三个：VMware，Citrix，MS<br>三个厂商对应的较成熟产品是VMware ESXi，Xenserver，Hyper-V，<br>都是裸机虚拟化<br>VMware ESXi重点于服务器虚拟化，技术较成熟，功能也多，支持虚机系统多；<br>Xenserver重点在于桌面虚拟化，性价比高，网络性能好，适用于快速与大规模部署，支持系统也不少，但做桌面能发布出来的只有MS系统；<br>Hyper-V起步的最晚，目前貌似只支持MS自家的系统，属于服务器级的，Server08版自带功能，起步晚，但背靠大树好乘凉；</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>待用</title>
+    <url>/2022/03/09/2/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+</search>
